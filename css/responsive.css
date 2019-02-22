@@ -1,0 +1,431 @@
+/* desktop Layout */
+
+@media only screen and (min-width: 992px) and (max-width: 1199.99px) {
+
+.header-address p, .header-email p, .header-contact p {
+	font-size: 12px;
+}
+.book-event ul li {
+	padding-right: 5px;
+}
+.book-event ul li a {
+	padding: 10px 20px;
+}
+.course-enroll ul li {
+	padding-right: 15px;
+}
+
+
+
+
+
+}
+
+/* laptop Layou. */
+
+@media only screen and (min-width: 768px) and (max-width: 991.99px) {
+
+.user-register {
+	float: unset;
+	text-align: center;
+	margin-top: 20px;
+	border-top: 1px solid #ccc;
+	padding-top: 20px;
+}
+.main-menu {
+	display: none;
+}
+.slicknav_menu {
+	display: block;
+	background: transparent;
+	position: absolute;
+	right: 0;
+	z-index: 9;
+	width: 100%;
+}
+.slicknav_nav {
+	clear: both;
+	color: #002147;
+	margin: 0;
+	font-size: .875em;
+	background: #fff;
+}
+.slicknav_btn {
+	margin-right: 50px !important;
+	margin-top: -2px !important;
+}
+.mega-menu {
+	display: none;
+}
+.slicknav_nav a {
+	color: #002147;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.slicknav_nav li {
+	border-bottom: 1px solid #ccc;
+}
+.slicknav_nav li:last-child {
+	border-bottom: 0;
+}
+.slicknav_nav .slicknav_arrow {
+	float: right;
+}
+.fas.fa-angle-down {
+	display: none;
+}
+.search-icon {
+	display: none !important;
+}
+.slicknav_nav li a:hover {
+	background: transparent !important;
+}
+.slicknav_nav ul {
+	margin: 0px 0 0 60px;
+}
+.slicknav_nav:hover .slicknav_arrow {
+	color: #002147 !important;
+}
+.header-bg {
+	margin-top: -169px;
+}
+
+.main-slider-content h1 {
+	font-size: 40px;
+	line-height: 40px;
+}
+h2 {
+	font-size: 24px;
+}
+.fact {
+	margin-bottom: 30px;
+}
+.single-event {
+	margin-bottom: 30px;
+}
+.single-blog {
+	margin-bottom: 30px;
+}
+.footer-two {
+	padding-top: 30px;
+}
+.footer-four {
+	padding-top: 30px;
+}
+.footer-btm {
+	text-align: center;
+}
+.turms {
+	float: unset;
+	padding-top: 10px;
+}
+.header-btm {
+	padding-bottom: 18px;
+}
+
+
+
+
+
+
+}
+
+/* tablet Layout */
+
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+
+.user-register {
+	float: unset;
+	text-align: center;
+	margin-top: 20px;
+	border-top: 1px solid #ccc;
+	padding-top: 20px;
+}
+.main-menu {
+	display: none;
+}
+.slicknav_menu {
+	display: block;
+	background: transparent;
+	position: absolute;
+	right: 0;
+	z-index: 9;
+	width: 100%;
+}
+.slicknav_nav {
+	clear: both;
+	color: #002147;
+	margin: 0;
+	font-size: .875em;
+	background: #fff;
+}
+.slicknav_btn {
+	margin-right: 50px !important;
+	margin-top: -2px !important;
+}
+.mega-menu {
+	display: none;
+}
+.slicknav_nav a {
+	color: #002147;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.slicknav_nav li {
+	border-bottom: 1px solid #ccc;
+}
+.slicknav_nav li:last-child {
+	border-bottom: 0;
+}
+.slicknav_nav .slicknav_arrow {
+	float: right;
+}
+.fas.fa-angle-down {
+	display: none;
+}
+.search-icon {
+	display: none !important;
+}
+.slicknav_nav li a:hover {
+	background: transparent !important;
+}
+.slicknav_nav ul {
+	margin: 0px 0 0 60px;
+}
+.slicknav_nav:hover .slicknav_arrow {
+	color: #002147 !important;
+}
+.header-bg {
+	margin-top: -169px;
+}
+
+.main-slider-content h1 {
+	font-size: 30px;
+	line-height: 30px;
+}
+h2 {
+	font-size: 24px;
+}
+.main-slider-content h3 {
+	font-size: 20px;
+}
+.single-feature {
+	margin-bottom: 20px;
+}
+.fact {
+	margin-bottom: 30px;
+}
+.single-event {
+	margin-bottom: 30px;
+}
+.single-blog {
+	margin-bottom: 30px;
+}
+.why-left {
+	width: 0;
+	height: 0;
+}
+.why-right {
+	width: 100%;
+}
+.footer-two {
+	padding-top: 30px;
+}
+.footer-four {
+	padding-top: 30px;
+}
+.footer-btm {
+	text-align: center;
+}
+.turms {
+	float: unset;
+	padding-top: 10px;
+}
+.ptb-80 {
+	padding: 60px 0;
+}
+.header-btm {
+	padding-bottom: 18px;
+}
+
+
+}
+
+
+
+/* Mobile Layout */
+
+@media only screen and (max-width: 575.98px) {
+
+.header-top {
+	text-align: center;
+}
+.user-register {
+	float: unset;
+	text-align: center;
+	margin-top: 20px;
+	border-top: 1px solid #ccc;
+	padding-top: 20px;
+}
+.header-address {
+	padding-bottom: 20px;
+}
+.header-email {
+	padding-bottom: 20px;
+}
+.main-menu {
+	display: none;
+}
+.main-slider-content {
+	padding: 150px 0;
+	text-align: center;
+}
+.slicknav_menu {
+	display: block;
+	background: transparent;
+	position: absolute;
+	right: 0;
+	z-index: 9;
+	width: 100%;
+}
+.slicknav_nav {
+	clear: both;
+	color: #002147;
+	margin: 0;
+	font-size: .875em;
+	background: #fff;
+}
+.slicknav_btn {
+	margin-right: 50px !important;
+	margin-top: -2px !important;
+}
+.mega-menu {
+	display: none;
+}
+.slicknav_nav a {
+	color: #002147;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.slicknav_nav li {
+	border-bottom: 1px solid #ccc;
+}
+.slicknav_nav li:last-child {
+	border-bottom: 0;
+}
+.slicknav_nav .slicknav_arrow {
+	float: right;
+}
+.fas.fa-angle-down {
+	display: none;
+}
+.search-icon {
+	display: none !important;
+}
+.slicknav_nav li a:hover {
+	background: transparent !important;
+}
+.slicknav_nav ul {
+	margin: 0px 0 0 60px;
+}
+.slicknav_nav:hover .slicknav_arrow {
+	color: #002147 !important;
+}
+.header-bg {
+	margin-top: -300px;
+}
+
+.main-slider-content h1 {
+	font-size: 30px;
+	line-height: 40px;
+}
+h2 {
+	font-size: 20px;
+}
+.main-slider-content h3 {
+	font-size: 20px;
+}
+.single-feature {
+	margin-bottom: 20px;
+	text-align: center;
+}
+.fact {
+	margin-bottom: 30px;
+}
+.single-event {
+	margin-bottom: 30px;
+}
+.single-blog {
+	margin-bottom: 30px;
+}
+.why-left {
+	width: 0;
+	height: 0;
+}
+.why-right {
+	width: 100%;
+	padding: 40px 0;
+}
+.why-title {
+	text-align: center;
+}
+.review-img {
+	float: left;
+	width: 100%;
+	padding-right: 0;
+}
+.review-content {
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding-top: 10px;
+}
+.footer-two {
+	padding-top: 30px;
+}
+.footer-four {
+	padding-top: 30px;
+}
+.footer-btm {
+	text-align: center;
+}
+.turms {
+	float: unset;
+	padding-top: 10px;
+}
+.about-content {
+	text-align: center;
+}
+.read-btn {
+	text-align: center;
+}
+.feature-img {
+	width: 50%;
+}
+.feature-info {
+	width: 50%;
+}
+.why-title h2 {
+	text-align: center;
+}
+.book-event ul li {
+	padding-bottom: 10px;
+}
+.ptb-80 {
+	padding: 40px 0;
+}
+.course-enroll ul li {
+	padding-right: 20px;
+}
+.course-enroll {
+	padding: 20px 5px;
+}
+.header-btm {
+	padding-bottom: 18px;
+}
+
+
+
+}
+
+
